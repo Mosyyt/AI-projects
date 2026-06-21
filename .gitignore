@@ -1,0 +1,27 @@
+# Python
+__pycache__/
+*.py[cod]
+*.pyo
+.env
+.venv
+venv/
+env/
+
+# Jupyter
+.ipynb_checkpoints/
+*-checkpoint.ipynb
+
+# ML / Daten
+*.pkl
+*.h5
+*.model
+*.weights
+
+# IDE
+.vscode/
+.idea/
+*.DS_Store
+
+# Uploads & temp
+uploads/
+tmp/
